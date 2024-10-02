@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233553738591",
+    "project_id": "siswaskadik505",
+    "storage_bucket": "siswaskadik505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233553738591:android:83a01eb1ff4dd62cf994ea",
+        "android_client_info": {
+          "package_name": "com.example.siswaskadik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmcem9aEOkQYBnjwwQQAULzykzM7i2XW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
